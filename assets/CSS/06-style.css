@@ -1,0 +1,15 @@
+*{
+    color: blue;
+}
+.highlight{
+    color: blueviolet;
+}
+.center{
+    text-align: center;
+}
+#p-1{
+    color: brown;
+}
+span{
+    color: aqua;
+}
