@@ -1,0 +1,33 @@
+.kutu1{
+    background-color:aqua;
+    text-align: right;
+    padding-right: 10 px;
+
+}
+.kutu2{
+    background-color: red;
+
+}
+.kutu3{
+    background-color: blue;
+    text-align: center;
+}
+.kutu4{
+    background-color: yellow;
+    width: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.kutu5{
+    background-color: chartreuse;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.kutu6{
+    background-color: blue;
+    width: 3rem;
+    margin-left: auto;
+    margin-right: 0;
+    /*block elementlerde margin-right ve margin-left ile ortalama yapmak istiyorsak genislik vermek zorundayiz*/
+}
