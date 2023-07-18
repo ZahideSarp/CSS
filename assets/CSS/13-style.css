@@ -1,6 +1,5 @@
 ul.liste{
-    /*list-style-image: url("../img/pexels-simon-berger-1266810.jpg");*/
-    list-style-type:"🍓";
-    list-style-position: inside;
+    list-style-type: "🐦‍🔥";
+    list-style-position:inside;
     line-height: 2rem;
 }

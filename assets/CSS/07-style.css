@@ -1,19 +1,22 @@
 h1.baslik{
-color: blue;
+    color: blue;
 }
+
 .baslik{
     color: green;
 }
 h1{
-    color: aqua!important; /* important>> inline >internal > external ( ayrıntı verenin dediği olur (.başlık < h1.başlık gibi ) )-*/
+    color: aqua!important;
 }
 
 *{
     color: red;
 }
 h1.baslik.renk{
-    color:blueviolet;
+    color: blueviolet;
 }
 h1.baslik.renk.aktif{
     color: brown;
 }
+
+
