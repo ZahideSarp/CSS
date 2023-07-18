@@ -7,3 +7,11 @@ div.kutu2{
     background-color: blueviolet;
     padding: 0 5rem 4rem 0;
 }
+em{
+    margin:2rem;
+}
+
+b{
+    background-color: blue;
+    padding: 2rem;
+}
