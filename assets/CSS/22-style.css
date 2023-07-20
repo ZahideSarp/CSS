@@ -1,0 +1,21 @@
+h1.baslik{
+    display: inline-block;
+    background-color: aqua;
+    padding: 2rem;
+    text-align: center;
+}
+span.span-el{
+    background-color: red;
+    display: block;
+    height: 45px;
+    width: 45px;
+}
+em{
+    display: inline-block;
+    background-color: chartreuse;
+    color:antiquewhite;
+}
+div.div-el{
+    background-color: blueviolet;
+    display: none;
+}
