@@ -1,0 +1,55 @@
+
+.form-login input[type="text"]{
+    background-color: aqua;
+    border: none;
+
+}
+.form-login input[type="text"]:focus{
+    background-color:blueviolet;
+}
+
+a:hover{
+    color: blue;
+    background-color: brown;
+}
+
+a:active{
+    background-color: rgb(151, 180, 36);
+}
+ 
+.chk-menu:checked{
+    outline:3px dotted  red;
+}
+
+ul.list li:first-child{
+    color:red;
+    font-size: 1.2rem;
+    font-style: italic;
+}
+ul.list li:last-child{
+    color:rgb(33, 234, 83);
+}
+
+ul.list li:nth-child(3){
+    color:cornflowerblue;
+    background-color: bisque;
+    display: inline;
+}
+
+.tablo{
+    margin: 3rem;
+}
+
+.tablo tr:nth-child(odd){
+    background-color: aqua;
+}
+.tablo tr:nth-child(even){
+    background-color: palevioletred;
+}
+.tablo tr:nth-child(3){
+    background-color: rgb(225, 80, 27);
+}
+.tablo tr:nth-child(3n+1){
+    background-color: rgb(21, 228, 73);
+}
+
